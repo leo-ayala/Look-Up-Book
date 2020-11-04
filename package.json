@@ -2,7 +2,7 @@
   "name": "googlebooks-app",
   "version": "1.0.0",
   "description": "",
-  "homepage": "http://gitname.github.io/gh-pages",
+  "homepage": "http://gitname.github.io/Look-Up-Book",
   "main": "server/server.js",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
